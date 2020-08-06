@@ -1,3 +1,3 @@
-# Simple-Stopwatch
+# Infinite-Timer
 
 This is a simple timer that I made.
