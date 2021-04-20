@@ -12,7 +12,7 @@ screen.title("Infinite Timer")
 while True:
     tl.hideturtle()
     tl.clear()
-    tl.write(str(hours).zfill(2) + ":" + str(minutes).zfill(2) + ":" + str(seconds).zfill(2), font = ('Arial', 40), align = 'center')
+    tl.write(str(hours).zfill(2) + ":" + str(minutes).zfill(2) + ":" + str(seconds).zfill(2), font = ("Arial", 40), align = "center")
     seconds += 1
     time.sleep(1)
     if seconds == 60:
