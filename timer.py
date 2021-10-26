@@ -1,9 +1,9 @@
-hours = 0 
-minutes = 0
-seconds = 0
-
 import time
 import turtle
+
+hours = 0
+minutes = 0
+seconds = 0
 
 tl = turtle.Turtle()
 screen = turtle.Screen()
